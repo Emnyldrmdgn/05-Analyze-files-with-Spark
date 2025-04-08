@@ -70,3 +70,14 @@ Don't forget to delete your Azure resource group after finishing the lab to prev
 
 ---
 
+## Screenshots
+![lab51](https://github.com/user-attachments/assets/8e76ca16-a965-4d54-a9d2-b686bc37e776)
+![lab52](https://github.com/user-attachments/assets/2aa0dda5-1299-4851-bf6d-876d07428787)
+![lab53](https://github.com/user-attachments/assets/a9a09f1b-97e2-452c-b4fc-5f7c0b5fd051)
+![lab53sparkpoolfirst](https://github.com/user-attachments/assets/ef5c5da4-d547-4388-bcd1-4dd1d749304c)
+![lab53sparkpoolfirst2](https://github.com/user-attachments/assets/246c4041-5dca-4f52-9ed8-89d14c7c559f)
+![lab53sparkpooll](https://github.com/user-attachments/assets/303ceb8c-e6fe-4083-ba7b-78872afdc737)
+![lab53sparkpooll5](https://github.com/user-attachments/assets/7d8bee6b-0c0d-4c37-86bb-bfda969db91d)
+![lab53sparkpooll6](https://github.com/user-attachments/assets/4af6328f-9042-4b1d-8b0e-2689b63a5ee1)
+
+
